@@ -26,7 +26,7 @@ def restart():
     nombre_victoires = 0
     victoires_consecutives = 0
     nombre_defaites = 0
-    numero_adversaire = 0-0
+    numero_adversaire = 0
 
 
 def fight():
